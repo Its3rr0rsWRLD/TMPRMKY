@@ -1,0 +1,14 @@
+[
+  {
+    "username": "user1",
+    "cookie": "cookie_for_user1"
+  },
+  {
+    "username": "user2",
+    "cookie": "cookie_for_user2"
+  },
+  {
+    "username": "user3",
+    "cookie": "cookie_for_user3"
+  }
+]
